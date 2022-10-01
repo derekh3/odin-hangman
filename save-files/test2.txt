@@ -1,0 +1,21 @@
+---
+:guesses: 3
+:max_guesses: 10
+:letters_left:
+- s
+- f
+- e
+- l
+- "y"
+:letters_chosen:
+- a
+- b
+- c
+:word: safely
+:word_in_progress:
+-
+- a
+-
+-
+-
+-

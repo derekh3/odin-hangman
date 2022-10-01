@@ -1,0 +1,22 @@
+---
+:guesses: 1
+:max_guesses: 2
+:letters_left:
+- t
+- r
+- v
+- e
+- s
+- i
+:letters_chosen:
+- a
+:word: travesti
+:word_in_progress:
+-
+-
+- a
+-
+-
+-
+-
+-
